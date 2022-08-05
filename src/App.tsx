@@ -8,9 +8,8 @@ export function App() {
     <>
       <Header />
       <Body />
-
-      <Footer />
       <Widget />
+      <Footer />
     </>
   );
 }

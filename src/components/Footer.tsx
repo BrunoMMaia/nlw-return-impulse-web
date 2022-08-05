@@ -15,7 +15,7 @@ export function Footer() {
         </li>
         <li>
           <a
-            href="www.linkedin.com/in/bruno-matheus-maia-b7b152146"
+            href="https://www.linkedin.com/in/bruno-matheus-maia-b7b152146"
             className="mr-4 hover:underline md:mr-6"
           >
             Linkedin

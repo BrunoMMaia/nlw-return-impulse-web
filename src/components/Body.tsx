@@ -23,10 +23,10 @@ export function Body() {
           <li>Axios</li>
         </ol>
       </div>
-      <div className="flex">
-        <div className="w-4/6">
-          <div role="status" className="animate-pulse mt-10  sm:ml-40 ">
-            <div className="flex justify-center items-center w-full h-96 bg-gray-300 rounded sm:w-12/12  ">
+      <div className="flex justify-center items-center">
+        <div className="">
+          <div role="status" className="animate-pulse mt-10 sm:ml-40 ">
+            <div className="flex justify-center items-center w-full h-96 bg-gray-300 rounded w-12/12  ">
               <svg
                 className="w-20 h-12 text-gray-200"
                 xmlns="http://www.w3.org/2000/svg"
